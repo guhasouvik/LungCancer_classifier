@@ -1,1 +1,1 @@
-# LungCancer_classifier
+The classifier models are uploaded as Jupyter notebooks.
